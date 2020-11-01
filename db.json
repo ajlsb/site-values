@@ -1,5 +1,7 @@
 {
   "background": "background.jpg",
+  "logo": "logo.png",
+  "nextChamp": "01/01/2021 15:00:00",
   "actionLink": "https://discord.gg/QNGDns7Yax",
   "hero": {
     "title": "Você está preparado?",
@@ -13,6 +15,7 @@
   "partners": ["partner1.png", "partner1.png","partner1.png"],
   "page1" : "page1.jpg",
   "page2": "page2.jpg",
+  "page3": "page3.jpg",
   "footer": {
     "facebook": "http://www.facebook.com.br/jurubebass",
     "twitter": "http://www.twitter.com.br/jurubebass",
