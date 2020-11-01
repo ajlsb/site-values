@@ -12,10 +12,12 @@
   "partners": ["partner1.png", "partner1.png","partner1.png"],
   "page1" : "page1.jpg",
   "page2": "page2.jpg",
-  "facebook": "http://www.facebook.com.br/jurubebass",
-  "twitter": "http://www.twitter.com.br/jurubebass",
-  "email": "contact@jurubebass.com.br",
-  "youtube": "http://www.youtube.com.br/jurubebass",
-  "instagram": "http://www.instagram.com.br/jurubebass",
-  "departments": ["contact@jurubebass.com.br", "partners@jurubebass.com.br"]
+  "footer": {
+    "facebook": "http://www.facebook.com.br/jurubebass",
+    "twitter": "http://www.twitter.com.br/jurubebass",
+    "email": "contact@jurubebass.com.br",
+    "youtube": "http://www.youtube.com.br/jurubebass",
+    "instagram": "http://www.instagram.com.br/jurubebass",
+    "departments": ["contact@jurubebass.com.br", "partners@jurubebass.com.br"]
+  }
 } 
