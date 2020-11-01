@@ -1,0 +1,21 @@
+{
+  "background": "background.jpg",
+  "actionLink": "https://discord.gg/QNGDns7Yax",
+  "hero": {
+    "title": "Você está preparado?",
+    "highlighted": "Jurubebas league",
+    "description":
+ "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries.",    
+    "button": "Conheça mais sobre a liga",
+    "twitchChannel": "jurubebass"
+  },
+  "partners": ["partner1.png", "partner1.png","partner1.png"],
+  "page1" : "page1.jpg",
+  "page2": "page2.jpg",
+  "facebook": "http://www.facebook.com.br/jurubebass",
+  "twitter": "http://www.twitter.com.br/jurubebass",
+  "email": "contact@jurubebass.com.br",
+  "youtube": "http://www.youtube.com.br/jurubebass",
+  "instagram": "http://www.instagram.com.br/jurubebass",
+  "departments": ["contact@jurubebass.com.br", "partners@jurubebass.com.br"]
+} 
