@@ -14,14 +14,14 @@
   },
   "partners": ["partner1.png", "partner1.png","partner1.png"],
   "page1" : "page1.jpg",
-  "page2": "page2.jpg",
+  "page2": "projeto banner apoiadores TESTE2.png",
   "page3": "page3.jpg",
   "footer": {
     "facebook": "http://www.facebook.com.br/jurubebass",
-    "twitter": "http://www.twitter.com.br/jurubebass",
-    "email": "contact@jurubebass.com.br",
+    "twitter": "http://www.twitter.com.br/ligajrbs",
+    "email": "ligajrbs@gmail.com",
     "youtube": "http://www.youtube.com.br/jurubebass",
-    "instagram": "http://www.instagram.com.br/jurubebass",
+    "instagram": "http://www.instagram.com.br/ligajrbs",
     "departments": ["contact@jurubebass.com.br", "partners@jurubebass.com.br"]
   }
 } 
